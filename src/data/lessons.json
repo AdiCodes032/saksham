@@ -8,7 +8,7 @@
     "duration": "28m 15s",
     "level": "Executive",
     "category": "HR & Talent",
-    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/Sklc_fQBmcs",
+    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/30v4RqN_sxM",
     "thumbnailUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&auto=format&fit=crop&q=80",
     "instructor": {
       "name": "Pratyush Vats",
@@ -26,8 +26,14 @@
       "SIBM Pune Case Study: Turnaround Management in Manufacturing"
     ],
     "resources": [
-      { "title": "SHRM Strategy Framework Workbook (.PDF)", "url": "https://example.com" },
-      { "title": "Workforce Capability Assessment Template (.XLSX)", "url": "https://example.com" }
+      {
+        "title": "SHRM Strategy Framework Workbook (.PDF)",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Workforce Capability Assessment Template (.XLSX)",
+        "url": "https://example.com"
+      }
     ]
   },
   {
@@ -39,7 +45,7 @@
     "duration": "35m 40s",
     "level": "Advanced Leadership",
     "category": "Performance & Rewards",
-    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/ft30zcMlFao",
+    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/30v4RqN_sxM",
     "thumbnailUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&auto=format&fit=crop&q=80",
     "instructor": {
       "name": "Pratyush Vats",
@@ -57,8 +63,14 @@
       "Startup Hypergrowth: Structuring ESOP Pools for Series B & C"
     ],
     "resources": [
-      { "title": "Salary Band & Compa-Ratio Calculator (.XLSX)", "url": "https://example.com" },
-      { "title": "Executive Compensation Policy Guidelines (.PDF)", "url": "https://example.com" }
+      {
+        "title": "Salary Band & Compa-Ratio Calculator (.XLSX)",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Executive Compensation Policy Guidelines (.PDF)",
+        "url": "https://example.com"
+      }
     ]
   },
   {
@@ -70,7 +82,7 @@
     "duration": "30m 20s",
     "level": "Executive",
     "category": "Performance & Rewards",
-    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/82P_L7Jj0r8",
+    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/30v4RqN_sxM",
     "thumbnailUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&auto=format&fit=crop&q=80",
     "instructor": {
       "name": "Aanya Sharma",
@@ -88,8 +100,14 @@
       "Adobe's 'Check-in' System: Replacing Annual Performance Reviews"
     ],
     "resources": [
-      { "title": "9-Box Talent Matrix & Succession Blueprint (.PDF)", "url": "https://example.com" },
-      { "title": "OKR Quarterly Review Template (.XLSX)", "url": "https://example.com" }
+      {
+        "title": "9-Box Talent Matrix & Succession Blueprint (.PDF)",
+        "url": "https://example.com"
+      },
+      {
+        "title": "OKR Quarterly Review Template (.XLSX)",
+        "url": "https://example.com"
+      }
     ]
   },
   {
@@ -101,7 +119,7 @@
     "duration": "26m 50s",
     "level": "Foundation",
     "category": "HR & Talent",
-    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/98BiG9bQO1s",
+    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/30v4RqN_sxM",
     "thumbnailUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&auto=format&fit=crop&q=80",
     "instructor": {
       "name": "Pratyush Vats",
@@ -119,8 +137,14 @@
       "Global Tech Scaling: Hiring 500+ Specialized Roles"
     ],
     "resources": [
-      { "title": "Behavioral Interview Question Bank by Competency (.PDF)", "url": "https://example.com" },
-      { "title": "Campus Hiring Scorecard & Offer Matrix (.XLSX)", "url": "https://example.com" }
+      {
+        "title": "Behavioral Interview Question Bank by Competency (.PDF)",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Campus Hiring Scorecard & Offer Matrix (.XLSX)",
+        "url": "https://example.com"
+      }
     ]
   },
   {
@@ -150,8 +174,14 @@
       "HR Dashboard Optimization at Fortune 500 Enterprise"
     ],
     "resources": [
-      { "title": "Executive HR Metrics Dashboard Template (.XLSX)", "url": "https://example.com" },
-      { "title": "Attrition Analysis Case Guide (.PDF)", "url": "https://example.com" }
+      {
+        "title": "Executive HR Metrics Dashboard Template (.XLSX)",
+        "url": "https://example.com"
+      },
+      {
+        "title": "Attrition Analysis Case Guide (.PDF)",
+        "url": "https://example.com"
+      }
     ]
   },
   {
@@ -163,7 +193,7 @@
     "duration": "34m 00s",
     "level": "Executive",
     "category": "Industrial Relations",
-    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/p1rE1_LqY3E",
+    "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/30v4RqN_sxM",
     "thumbnailUrl": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800&auto=format&fit=crop&q=80",
     "instructor": {
       "name": "Pratyush Vats",
@@ -181,8 +211,14 @@
       "Plant IR Settlement & Voluntary Retirement Scheme (VRS) Case"
     ],
     "resources": [
-      { "title": "Statutory Labour Compliance Checklist 2026 (.PDF)", "url": "https://example.com" },
-      { "title": "POSH Committee Redressal Toolkit (.PDF)", "url": "https://example.com" }
+      {
+        "title": "Statutory Labour Compliance Checklist 2026 (.PDF)",
+        "url": "https://example.com"
+      },
+      {
+        "title": "POSH Committee Redressal Toolkit (.PDF)",
+        "url": "https://example.com"
+      }
     ]
   }
 ]
