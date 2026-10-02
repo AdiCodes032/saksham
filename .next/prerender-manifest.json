@@ -5,7 +5,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 90205,
+      "htmlSize": 93201,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -62,7 +62,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 21115,
+      "htmlSize": 21682,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -90,7 +90,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 44405,
+      "htmlSize": 45986,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -118,7 +118,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 55209,
+      "htmlSize": 58479,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -146,7 +146,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 62996,
+      "htmlSize": 71891,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -174,7 +174,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64363,
+      "htmlSize": 73420,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -202,7 +202,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64514,
+      "htmlSize": 73444,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -230,7 +230,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64516,
+      "htmlSize": 73444,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -258,7 +258,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64390,
+      "htmlSize": 73462,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -286,7 +286,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 62824,
+      "htmlSize": 71578,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -310,11 +310,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/ai-agents-and-llm-integrations": {
+    "/lessons/compensation-and-total-rewards-architecture": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64572,
+      "htmlSize": 73504,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -328,7 +328,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/ai-agents-and-llm-integrations.rsc",
+      "dataRoute": "/lessons/compensation-and-total-rewards-architecture.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -338,11 +338,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/fullstack-api-design-postgresql": {
+    "/lessons/industrial-relations-labor-laws-compliance": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64576,
+      "htmlSize": 71660,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -356,7 +356,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/fullstack-api-design-postgresql.rsc",
+      "dataRoute": "/lessons/industrial-relations-labor-laws-compliance.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -366,11 +366,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/fullstack-saas-architecture": {
+    "/lessons/people-analytics-and-hr-metrics": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64442,
+      "htmlSize": 73522,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -384,7 +384,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/fullstack-saas-architecture.rsc",
+      "dataRoute": "/lessons/people-analytics-and-hr-metrics.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -394,11 +394,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/intro-to-nextjs-app-router": {
+    "/lessons/performance-management-okrs-balanced-scorecards": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 63046,
+      "htmlSize": 73536,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -412,7 +412,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/intro-to-nextjs-app-router.rsc",
+      "dataRoute": "/lessons/performance-management-okrs-balanced-scorecards.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -422,11 +422,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/tailwind-css-v4-modern-styling": {
+    "/lessons/strategic-human-resource-management-shrm": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 64421,
+      "htmlSize": 71969,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -440,7 +440,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/tailwind-css-v4-modern-styling.rsc",
+      "dataRoute": "/lessons/strategic-human-resource-management-shrm.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -450,11 +450,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/ui-ux-design-systems-micro-interactions": {
+    "/lessons/talent-acquisition-and-behavioral-interviewing": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 62900,
+      "htmlSize": 73534,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -468,7 +468,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/ui-ux-design-systems-micro-interactions.rsc",
+      "dataRoute": "/lessons/talent-acquisition-and-behavioral-interviewing.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",

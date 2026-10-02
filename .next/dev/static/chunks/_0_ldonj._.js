@@ -195,12 +195,12 @@ function LessonCard({ lesson }) {
     };
     const getLevelBadgeColor = (level)=>{
         switch(level){
-            case "Beginner":
+            case "Foundation":
                 return "bg-emerald-500/10 text-emerald-300 border-emerald-500/20";
-            case "Intermediate":
+            case "Executive":
                 return "bg-sky-500/10 text-sky-300 border-sky-500/20";
-            case "Advanced":
-                return "bg-purple-500/10 text-purple-300 border-purple-500/20";
+            case "Advanced Leadership":
+                return "bg-amber-500/10 text-amber-300 border-amber-500/20";
         }
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -222,9 +222,9 @@ function LessonCard({ lesson }) {
                         href: `/lessons/${lesson.slug || lesson.id}`,
                         onClick: handleCardPlayClick,
                         className: "absolute inset-0 bg-slate-950/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center",
-                        "aria-label": `Play lesson: ${lesson.title}`,
+                        "aria-label": `Play masterclass: ${lesson.title}`,
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "w-12 h-12 rounded-full bg-indigo-600 text-white flex items-center justify-center pl-1 shadow-lg transform group-hover:scale-110 transition-transform",
+                            className: "w-12 h-12 rounded-full bg-amber-600 text-white flex items-center justify-center pl-1 shadow-lg transform group-hover:scale-110 transition-transform",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__["Play"], {
                                 className: "w-5 h-5 fill-white"
                             }, void 0, false, {
@@ -261,7 +261,7 @@ function LessonCard({ lesson }) {
                         className: "absolute bottom-3 right-3 flex items-center gap-1.5 px-2 py-1 rounded-md text-[11px] font-medium bg-slate-950/80 backdrop-blur-md text-slate-200",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$clock$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Clock$3e$__["Clock"], {
-                                className: "w-3 h-3 text-indigo-400"
+                                className: "w-3 h-3 text-amber-400"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/LessonCard.tsx",
                                 lineNumber: 58,
@@ -312,7 +312,7 @@ function LessonCard({ lesson }) {
                                 onClick: handleCardPlayClick,
                                 className: "block",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                    className: "text-base font-bold text-white group-hover:text-indigo-400 transition-colors line-clamp-2 leading-snug",
+                                    className: "text-base font-bold text-white group-hover:text-amber-400 transition-colors line-clamp-2 leading-snug",
                                     children: lesson.title
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/LessonCard.tsx",
@@ -354,7 +354,7 @@ function LessonCard({ lesson }) {
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-slate-300 font-medium",
+                                        className: "text-slate-300 font-medium truncate max-w-[140px]",
                                         children: lesson.instructor.name
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/LessonCard.tsx",
@@ -370,7 +370,7 @@ function LessonCard({ lesson }) {
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                 href: `/lessons/${lesson.slug || lesson.id}`,
                                 onClick: handleCardPlayClick,
-                                className: "text-xs font-semibold text-indigo-400 group-hover:text-indigo-300 flex items-center gap-1",
+                                className: "text-xs font-semibold text-amber-400 group-hover:text-amber-300 flex items-center gap-1 shrink-0",
                                 children: [
                                     "Watch ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$play$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Play$3e$__["Play"], {

@@ -17,12 +17,12 @@ export default function LessonCard({ lesson }: LessonCardProps) {
 
   const getLevelBadgeColor = (level: Lesson["level"]) => {
     switch (level) {
-      case "Beginner":
+      case "Foundation":
         return "bg-emerald-500/10 text-emerald-300 border-emerald-500/20";
-      case "Intermediate":
+      case "Executive":
         return "bg-sky-500/10 text-sky-300 border-sky-500/20";
-      case "Advanced":
-        return "bg-purple-500/10 text-purple-300 border-purple-500/20";
+      case "Advanced Leadership":
+        return "bg-amber-500/10 text-amber-300 border-amber-500/20";
     }
   };
 
@@ -40,9 +40,9 @@ export default function LessonCard({ lesson }: LessonCardProps) {
           href={`/lessons/${lesson.slug || lesson.id}`}
           onClick={handleCardPlayClick}
           className="absolute inset-0 bg-slate-950/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center"
-          aria-label={`Play lesson: ${lesson.title}`}
+          aria-label={`Play masterclass: ${lesson.title}`}
         >
-          <div className="w-12 h-12 rounded-full bg-indigo-600 text-white flex items-center justify-center pl-1 shadow-lg transform group-hover:scale-110 transition-transform">
+          <div className="w-12 h-12 rounded-full bg-amber-600 text-white flex items-center justify-center pl-1 shadow-lg transform group-hover:scale-110 transition-transform">
             <Play className="w-5 h-5 fill-white" />
           </div>
         </Link>
@@ -55,7 +55,7 @@ export default function LessonCard({ lesson }: LessonCardProps) {
         </div>
 
         <div className="absolute bottom-3 right-3 flex items-center gap-1.5 px-2 py-1 rounded-md text-[11px] font-medium bg-slate-950/80 backdrop-blur-md text-slate-200">
-          <Clock className="w-3 h-3 text-indigo-400" />
+          <Clock className="w-3 h-3 text-amber-400" />
           <span>{lesson.duration}</span>
         </div>
       </div>
@@ -78,7 +78,7 @@ export default function LessonCard({ lesson }: LessonCardProps) {
             onClick={handleCardPlayClick}
             className="block"
           >
-            <h3 className="text-base font-bold text-white group-hover:text-indigo-400 transition-colors line-clamp-2 leading-snug">
+            <h3 className="text-base font-bold text-white group-hover:text-amber-400 transition-colors line-clamp-2 leading-snug">
               {lesson.title}
             </h3>
           </Link>
@@ -96,13 +96,13 @@ export default function LessonCard({ lesson }: LessonCardProps) {
               alt={lesson.instructor.name}
               className="w-6 h-6 rounded-full object-cover border border-slate-700"
             />
-            <span className="text-slate-300 font-medium">{lesson.instructor.name}</span>
+            <span className="text-slate-300 font-medium truncate max-w-[140px]">{lesson.instructor.name}</span>
           </div>
 
           <Link
             href={`/lessons/${lesson.slug || lesson.id}`}
             onClick={handleCardPlayClick}
-            className="text-xs font-semibold text-indigo-400 group-hover:text-indigo-300 flex items-center gap-1"
+            className="text-xs font-semibold text-amber-400 group-hover:text-amber-300 flex items-center gap-1 shrink-0"
           >
             Watch <Play className="w-3 h-3 fill-current" />
           </Link>

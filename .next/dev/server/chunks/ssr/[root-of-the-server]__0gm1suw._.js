@@ -15,7 +15,7 @@ __turbopack_context__.s([
     ()=>metadata
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sparkles$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Sparkles$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/sparkles.js [app-rsc] (ecmascript) <export default as Sparkles>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$graduation$2d$cap$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__GraduationCap$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/graduation-cap.js [app-rsc] (ecmascript) <export default as GraduationCap>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$lessons$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/lib/lessons.ts [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$LessonsFilter$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/LessonsFilter.tsx [app-rsc] (ecmascript)");
 ;
@@ -23,8 +23,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Lessons
 ;
 ;
 const metadata = {
-    title: "Video Lessons & Masterclasses | Saksham Learn",
-    description: "Explore in-depth video lessons on Next.js, Tailwind CSS, AI Engineering, Fullstack SaaS, and modern frontend design."
+    title: "Management & HR Executive Masterclasses | Saksham Executive",
+    description: "Explore case-based management masterclasses in Strategic HRM, Total Rewards, OKRs & Performance Systems, Campus Recruitment, and Labour Law Compliance."
 };
 function LessonsPage() {
     const lessons = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$lessons$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["getAllLessons"])();
@@ -38,16 +38,16 @@ function LessonsPage() {
                     className: "max-w-3xl space-y-4",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-indigo-500/10 border border-indigo-500/20 text-xs font-semibold text-indigo-300",
+                            className: "inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/20 text-xs font-semibold text-amber-300",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sparkles$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Sparkles$3e$__["Sparkles"], {
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$graduation$2d$cap$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__GraduationCap$3e$__["GraduationCap"], {
                                     className: "w-3.5 h-3.5"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/lessons/page.tsx",
                                     lineNumber: 23,
                                     columnNumber: 13
                                 }, this),
-                                " Course Catalog"
+                                " Executive Curriculum"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/lessons/page.tsx",
@@ -56,7 +56,7 @@ function LessonsPage() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "text-3xl sm:text-5xl font-extrabold text-white tracking-tight",
-                            children: "Video Lessons & Masterclasses"
+                            children: "Management & HR Leadership Masterclasses"
                         }, void 0, false, {
                             fileName: "[project]/src/app/lessons/page.tsx",
                             lineNumber: 25,
@@ -64,7 +64,7 @@ function LessonsPage() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-slate-300 text-base leading-relaxed",
-                            children: "Browse our curated library of production-focused tutorials. Each lesson comes with full source code, architecture breakdowns, and step-by-step video guidance."
+                            children: "Browse our case-method curriculum inspired by top B-school pedagogy (SIBM Pune). Each module includes downloadable Excel financial models, policy templates, and step-by-step video case analysis."
                         }, void 0, false, {
                             fileName: "[project]/src/app/lessons/page.tsx",
                             lineNumber: 28,
@@ -142,199 +142,223 @@ __turbopack_context__.n(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$c
 module.exports = [
     {
         "id": "1",
-        "slug": "intro-to-nextjs-app-router",
-        "title": "Next.js App Router Masterclass: Foundations to Production",
-        "description": "Master Server Components, client boundaries, layouts, dynamic routing, and fast SSR data fetching.",
-        "longDescription": "In this deep dive, learn how the Next.js App Router paradigm redefines modern fullstack development. Explore React Server Components (RSC), Suspense boundaries, streaming architecture, and nested route layouts to build ultra-fast web applications.",
-        "duration": "18m 45s",
-        "level": "Intermediate",
-        "category": "Frontend",
+        "slug": "strategic-human-resource-management-shrm",
+        "title": "Strategic HRM: Aligning People Strategy with Corporate Growth",
+        "description": "Learn how modern CHROs design human capital strategies that directly drive EBITDA, talent retention, and organizational agility.",
+        "longDescription": "In this comprehensive executive masterclass inspired by top B-school case frameworks, explore Strategic Human Resource Management (SHRM). Discover how to translate boardroom business goals into high-impact workforce capability plans, execute strategic workforce planning, and manage organizational restructuring with empathy and governance.",
+        "duration": "28m 15s",
+        "level": "Executive",
+        "category": "HR & Talent",
         "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/Sklc_fQBmcs",
-        "thumbnailUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&auto=format&fit=crop&q=80",
         "instructor": {
-            "name": "Sarah Jenkins",
-            "role": "Principal Frontend Architect",
-            "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80"
+            "name": "Pratyush Vats",
+            "role": "SIBM Pune Alumnus & Senior HR Business Leader",
+            "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
         },
         "learningObjectives": [
-            "Understand Server Components vs Client Components boundaries",
-            "Design nested layouts and template hierarchies",
-            "Implement route handlers and server actions",
-            "Optimize SEO, Core Web Vitals, and caching strategies"
+            "Formulate SHRM roadmaps aligned with business unit strategy",
+            "Conduct Strategic Workforce Planning (SWP) & capability mapping",
+            "Design organizational design hierarchies and span of control",
+            "Navigate change management using the Kotter 8-Step Framework"
+        ],
+        "caseStudies": [
+            "HBR Case: Tech Transformation and Culture Re-alignment",
+            "SIBM Pune Case Study: Turnaround Management in Manufacturing"
         ],
         "resources": [
             {
-                "title": "Next.js Official Documentation",
-                "url": "https://nextjs.org/docs"
+                "title": "SHRM Strategy Framework Workbook (.PDF)",
+                "url": "https://example.com"
             },
             {
-                "title": "GitHub Starter Repository",
-                "url": "https://github.com"
+                "title": "Workforce Capability Assessment Template (.XLSX)",
+                "url": "https://example.com"
             }
         ]
     },
     {
         "id": "2",
-        "slug": "tailwind-css-v4-modern-styling",
-        "title": "Tailwind CSS v4: Building High-Converting UI Systems",
-        "description": "Unlock modern CSS cascade layers, container queries, CSS variables, and design tokens for scalable frontend styling.",
-        "longDescription": "A complete guide to leveraging the cutting-edge Tailwind CSS engine. Learn to craft consistent design tokens, sleek dark modes, fluid typography, and micro-interactions that elevate brand trust and boost conversions.",
-        "duration": "24m 10s",
-        "level": "Beginner",
-        "category": "Design & UX",
+        "slug": "compensation-and-total-rewards-architecture",
+        "title": "Compensation & Total Rewards: Designing Market-Competitive Pay",
+        "description": "Master base pay banding, variable compensation, long-term incentives (ESOPs), and internal vs external pay equity.",
+        "longDescription": "Designing an attractive, financially sustainable compensation structure is one of the most critical responsibilities of HR leaders. This masterclass breaks down Mercer/Aon pay benchmarking, compa-ratios, broadbanding, executive bonuses, retention bonuses, and tax-efficient salary design.",
+        "duration": "35m 40s",
+        "level": "Advanced Leadership",
+        "category": "Performance & Rewards",
         "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/ft30zcMlFao",
-        "thumbnailUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=800&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&auto=format&fit=crop&q=80",
         "instructor": {
-            "name": "Alex Rivera",
-            "role": "Design Systems Lead",
-            "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+            "name": "Pratyush Vats",
+            "role": "SIBM Pune Alumnus & Senior HR Business Leader",
+            "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
         },
         "learningObjectives": [
-            "Configure Tailwind v4 CSS theme variables",
-            "Implement accessible color palettes and typography scales",
-            "Create fluid responsive designs with CSS container queries",
-            "Build reusable UI card and modal components"
+            "Calculate and calibrate Compa-Ratios, Range Penetration, and Salary Bands",
+            "Structure STI (Short-Term Incentive) & LTI (Long-Term Incentive/ESOP) plans",
+            "Conduct market pay benchmarking using 25th, 50th, and 75th percentiles",
+            "Ensure pay transparency and statutory compliance across geographies"
+        ],
+        "caseStudies": [
+            "Unilever Total Rewards Restructuring",
+            "Startup Hypergrowth: Structuring ESOP Pools for Series B & C"
         ],
         "resources": [
             {
-                "title": "Tailwind CSS v4 Guide",
-                "url": "https://tailwindcss.com"
+                "title": "Salary Band & Compa-Ratio Calculator (.XLSX)",
+                "url": "https://example.com"
             },
             {
-                "title": "Design Tokens Cheatsheet",
+                "title": "Executive Compensation Policy Guidelines (.PDF)",
                 "url": "https://example.com"
             }
         ]
     },
     {
         "id": "3",
-        "slug": "ai-agents-and-llm-integrations",
-        "title": "Building Production AI Agents with TypeScript & Next.js",
-        "description": "Integrate LLM tool calling, streaming responses, vector embeddings, and RAG pipelines into web applications.",
-        "longDescription": "Step into modern AI engineering. Learn how to connect Large Language Models with structured tools, vector databases, and real-time streaming endpoints. Build autonomous agents that execute multi-step workflows safely.",
-        "duration": "32m 15s",
-        "level": "Advanced",
-        "category": "AI & ML",
+        "slug": "performance-management-okrs-balanced-scorecards",
+        "title": "Performance Management: Implementing OKRs & Balanced Scorecards",
+        "description": "Transition from rigid annual appraisals to agile OKRs, continuous feedback loops, and 360-degree leadership reviews.",
+        "longDescription": "Traditional bell curves often demotivate high-potential talent. In this session, learn modern performance appraisal frameworks: cascading OKRs from CEO to individual contributors, integrating Balanced Scorecards (Financial, Customer, Process, Learning), and conducting constructive performance calibration meetings.",
+        "duration": "30m 20s",
+        "level": "Executive",
+        "category": "Performance & Rewards",
         "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/82P_L7Jj0r8",
-        "thumbnailUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&auto=format&fit=crop&q=80",
         "instructor": {
-            "name": "Dr. Maya Lin",
-            "role": "AI Research Engineer",
-            "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+            "name": "Aanya Sharma",
+            "role": "Management Consultant & Leadership Coach",
+            "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80"
         },
         "learningObjectives": [
-            "Implement server-sent events for real-time text streaming",
-            "Design structured JSON tool-calling schemas",
-            "Set up Pinecone/pgvector search and context injection",
-            "Handle rate limiting, token caching, and fallback resilience"
+            "Cascade company-level Key Results into functional KPIs",
+            "Run quarterly calibration meetings to eliminate rater bias",
+            "Design 9-Box Grid talent reviews for succession planning",
+            "Coach managers on handling difficult PIP (Performance Improvement Plan) conversations"
+        ],
+        "caseStudies": [
+            "Google OKR Framework Implementation",
+            "Adobe's 'Check-in' System: Replacing Annual Performance Reviews"
         ],
         "resources": [
             {
-                "title": "Vercel AI SDK Docs",
-                "url": "https://sdk.vercel.ai"
+                "title": "9-Box Talent Matrix & Succession Blueprint (.PDF)",
+                "url": "https://example.com"
             },
             {
-                "title": "Prompt Engineering Best Practices",
+                "title": "OKR Quarterly Review Template (.XLSX)",
                 "url": "https://example.com"
             }
         ]
     },
     {
         "id": "4",
-        "slug": "fullstack-api-design-postgresql",
-        "title": "Scalable Backend Architecture with TypeScript & PostgreSQL",
-        "description": "Design resilient database schemas, migrations, connection pools, and high-throughput REST & GraphQL APIs.",
-        "longDescription": "Go beyond simple CRUD. Learn how to architect enterprise-grade relational databases, write clean database migrations with Prisma or Drizzle ORM, secure endpoints with JWT/OAuth, and optimize query latency.",
-        "duration": "28m 40s",
-        "level": "Intermediate",
-        "category": "Backend",
+        "slug": "talent-acquisition-and-behavioral-interviewing",
+        "title": "Talent Acquisition Mastery: Campus Hiring & Behavioral Interviewing",
+        "description": "Master structured behavioral interviewing (STAR methodology), campus placement strategy, and employer value proposition (EVP).",
+        "longDescription": "Attracting top-tier talent from premier institutions requires more than job postings. Learn how to architect end-to-end talent acquisition pipelines, conduct competency-based interviews (STAR method), build a magnetic employer brand, and run high-conversion campus recruitment drives at top B-schools.",
+        "duration": "26m 50s",
+        "level": "Foundation",
+        "category": "HR & Talent",
         "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/98BiG9bQO1s",
-        "thumbnailUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&auto=format&fit=crop&q=80",
         "instructor": {
-            "name": "David Chen",
-            "role": "Cloud Infrastructure Architect",
-            "avatarUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80"
+            "name": "Pratyush Vats",
+            "role": "SIBM Pune Alumnus & Senior HR Business Leader",
+            "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
         },
         "learningObjectives": [
-            "Structure ACID-compliant PostgreSQL tables and indexes",
-            "Implement connection pooling with PgBouncer / Neon",
-            "Create secure role-based access control (RBAC) middleware",
-            "Benchmark and profile slow queries"
+            "Formulate competency maps and behavioral question rubrics",
+            "Master STAR interview scoring (Situation, Task, Action, Result)",
+            "Design an authentic Employer Value Proposition (EVP)",
+            "Execute high-impact B-school campus engagement & PPI strategies"
+        ],
+        "caseStudies": [
+            "FMCG Day Zero Campus Hiring Playbook at Premier IIMs/SIBM",
+            "Global Tech Scaling: Hiring 500+ Specialized Roles"
         ],
         "resources": [
             {
-                "title": "PostgreSQL Performance Guide",
-                "url": "https://postgresql.org"
+                "title": "Behavioral Interview Question Bank by Competency (.PDF)",
+                "url": "https://example.com"
             },
             {
-                "title": "Database Schema Templates",
+                "title": "Campus Hiring Scorecard & Offer Matrix (.XLSX)",
                 "url": "https://example.com"
             }
         ]
     },
     {
         "id": "5",
-        "slug": "fullstack-saas-architecture",
-        "title": "Building a Complete SaaS: Auth, Billing & Multi-Tenancy",
-        "description": "End-to-end walkthrough of building and launching a production-ready SaaS application with Stripe and auth.",
-        "longDescription": "From blank repo to first paying customer: learn subscription billing webhooks, multi-tenant workspace isolation, team invitations, transactional emails, and zero-downtime CI/CD deployment pipelines.",
-        "duration": "45m 20s",
-        "level": "Advanced",
-        "category": "Fullstack",
+        "slug": "people-analytics-and-hr-metrics",
+        "title": "People Analytics: Metric-Driven Human Resource Decision Making",
+        "description": "Turn employee data into strategic insights. Track eNPS, cost-per-hire, early attrition risk, and workforce productivity metrics.",
+        "longDescription": "Modern management demands quantitative rigor. In this data-driven course, explore the key HR metrics that matter to the C-suite: Quality of Hire, Attrition Predictor Models, Employee Net Promoter Score (eNPS), Human Capital ROI, and Diversity & Inclusion metrics.",
+        "duration": "38m 10s",
+        "level": "Advanced Leadership",
+        "category": "People Analytics",
         "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/1vR3ST946Q8",
-        "thumbnailUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&auto=format&fit=crop&q=80",
         "instructor": {
-            "name": "Sarah Jenkins",
-            "role": "Principal Frontend Architect",
-            "avatarUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80"
+            "name": "Vikramaditya Sengupta",
+            "role": "VP of People Operations & HR Analytics",
+            "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
         },
         "learningObjectives": [
-            "Stripe Checkout, Customer Portal & webhook processing",
-            "Multi-tenant data partitioning & row level security",
-            "Automated transactional emails with Resend",
-            "Production deployment with monitoring & telemetry"
+            "Calculate Human Capital Return on Investment (HCROI) and Revenue per Employee",
+            "Build predictive attrition dashboards using survival analysis concepts",
+            "Measure employee engagement correlations with business productivity",
+            "Present data-backed HR business cases to the Board of Directors"
+        ],
+        "caseStudies": [
+            "Predicting Flight Risk in High-Performer Cohorts",
+            "HR Dashboard Optimization at Fortune 500 Enterprise"
         ],
         "resources": [
             {
-                "title": "Stripe API Reference",
-                "url": "https://stripe.com/docs/api"
+                "title": "Executive HR Metrics Dashboard Template (.XLSX)",
+                "url": "https://example.com"
             },
             {
-                "title": "SaaS Architecture Checklist",
+                "title": "Attrition Analysis Case Guide (.PDF)",
                 "url": "https://example.com"
             }
         ]
     },
     {
         "id": "6",
-        "slug": "ui-ux-design-systems-micro-interactions",
-        "title": "Micro-Interactions & Motion Design for Web Developers",
-        "description": "Craft tactile, polished web interfaces using spring physics, gesture handling, and subtle interactive feedback.",
-        "longDescription": "Explore how thoughtful micro-interactions transform ordinary websites into unforgettable digital experiences. Master layout animations, tab morphing, skeleton loaders, and tactile button feedback.",
-        "duration": "21m 00s",
-        "level": "Beginner",
-        "category": "Design & UX",
+        "slug": "industrial-relations-labor-laws-compliance",
+        "title": "Labor Law Compliance & Workplace Governance in India",
+        "description": "Comprehensive guide to the 4 Labour Codes, POSH compliance, grievance resolution, and ethical workplace governance.",
+        "longDescription": "Navigate the legal and regulatory landscape of employment in corporate India. This course covers the new Labour Codes (Wages, Social Security, IR, and OSH), Internal Complaints Committee (ICC) operations under POSH Act 2013, contract labor regulations, and ethical dispute management.",
+        "duration": "34m 00s",
+        "level": "Executive",
+        "category": "Industrial Relations",
         "youtubeEmbedUrl": "https://www.youtube-nocookie.com/embed/p1rE1_LqY3E",
-        "thumbnailUrl": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=800&auto=format&fit=crop&q=80",
+        "thumbnailUrl": "https://images.unsplash.com/photo-1450133064473-71024230f91b?w=800&auto=format&fit=crop&q=80",
         "instructor": {
-            "name": "Alex Rivera",
-            "role": "Design Systems Lead",
-            "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80"
+            "name": "Pratyush Vats",
+            "role": "SIBM Pune Alumnus & Senior HR Business Leader",
+            "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
         },
         "learningObjectives": [
-            "Understand motion curves and cognitive response times",
-            "Build smooth spring animations with CSS and Framer Motion concepts",
-            "Design keyboard accessible focus states and screen-reader alerts",
-            "Measure animation performance with Chrome DevTools"
+            "Understand the operational impact of the 4 New Labour Codes",
+            "Establish POSH ICC procedures, inquiries, and annual compliance reporting",
+            "Manage trade union dialogue and collective bargaining agreements",
+            "Implement compliant standing orders and disciplinary action protocols"
+        ],
+        "caseStudies": [
+            "POSH Inquiry Investigation Case Study: Best Practices",
+            "Plant IR Settlement & Voluntary Retirement Scheme (VRS) Case"
         ],
         "resources": [
             {
-                "title": "Motion Design Principles",
+                "title": "Statutory Labour Compliance Checklist 2026 (.PDF)",
                 "url": "https://example.com"
             },
             {
-                "title": "Accessibility Guidelines for Animation",
-                "url": "https://w3.org"
+                "title": "POSH Committee Redressal Toolkit (.PDF)",
+                "url": "https://example.com"
             }
         ]
     }
@@ -376,11 +400,11 @@ function getRelatedLessons(currentId, limit = 3) {
 function getCategories() {
     return [
         "All",
-        "Frontend",
-        "Backend",
-        "Fullstack",
-        "AI & ML",
-        "Design & UX"
+        "HR & Talent",
+        "Strategy & Leadership",
+        "Performance & Rewards",
+        "People Analytics",
+        "Industrial Relations"
     ];
 }
 }),

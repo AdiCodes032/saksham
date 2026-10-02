@@ -1,11 +1,1 @@
-{
-  "version": 4,
-  "routes": {},
-  "dynamicRoutes": {},
-  "notFoundRoutes": [],
-  "preview": {
-    "previewModeId": "6b7b157e0bd077f854939b4ce9b68fd8",
-    "previewModeSigningKey": "98495409a6af3ead1260099ef561403ae1c301d6c3d6eacda17a4ab9bfaaefa1",
-    "previewModeEncryptionKey": "a833f4561891c4f9dc6e42aa213b4f18dbe3f8869f67fa2025627c99176fa279"
-  }
-}
+{"version":4,"routes":{"/lessons/1":{},"/lessons/strategic-human-resource-management-shrm":{},"/lessons/2":{},"/lessons/compensation-and-total-rewards-architecture":{},"/lessons/3":{},"/lessons/performance-management-okrs-balanced-scorecards":{},"/lessons/4":{},"/lessons/talent-acquisition-and-behavioral-interviewing":{},"/lessons/5":{},"/lessons/people-analytics-and-hr-metrics":{},"/lessons/6":{},"/lessons/industrial-relations-labor-laws-compliance":{}},"dynamicRoutes":{"/lessons/[id]":{"dataRoute":null,"dataRouteRegex":null,"fallback":null,"fallbackRevalidate":false,"fallbackSourceRoute":"/lessons/[id]","routeRegex":"^\\/lessons\\/([^/]+?)(?:\\/)?$","allowHeader":[]}},"notFoundRoutes":[],"preview":{"previewModeId":"f2ca71361208a07e90d2a834419b2889","previewModeSigningKey":"fa8dcece90c7afd7414239e7ce9b19b8010fd06d073cebff7e3cbe074a722fc9","previewModeEncryptionKey":"1f5c2f5247e62bc2d359d8b8ba0ddf211499bd865b856f9ae19dde00cf760826"}}

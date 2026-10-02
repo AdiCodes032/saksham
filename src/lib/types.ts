@@ -5,8 +5,8 @@ export interface Lesson {
   description: string;
   longDescription?: string;
   duration: string;
-  level: "Beginner" | "Intermediate" | "Advanced";
-  category: "Frontend" | "Backend" | "Fullstack" | "AI & ML" | "Design & UX";
+  level: "Foundation" | "Executive" | "Advanced Leadership";
+  category: "HR & Talent" | "Strategy & Leadership" | "Performance & Rewards" | "People Analytics" | "Industrial Relations";
   youtubeEmbedUrl: string;
   thumbnailUrl: string;
   instructor: {
@@ -15,6 +15,7 @@ export interface Lesson {
     avatarUrl: string;
   };
   learningObjectives: string[];
+  caseStudies?: string[];
   resources?: {
     title: string;
     url: string;

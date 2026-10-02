@@ -26,5 +26,12 @@ export function getRelatedLessons(currentId: string, limit = 3): Lesson[] {
 }
 
 export function getCategories(): CategoryFilter[] {
-  return ["All", "Frontend", "Backend", "Fullstack", "AI & ML", "Design & UX"];
+  return [
+    "All",
+    "HR & Talent",
+    "Strategy & Leadership",
+    "Performance & Rewards",
+    "People Analytics",
+    "Industrial Relations",
+  ];
 }
