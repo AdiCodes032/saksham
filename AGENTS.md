@@ -1,0 +1,1 @@
+Always use the skills web-design-guidelines, tailwind-4-docs and astro for creating SEO optimized websites.
