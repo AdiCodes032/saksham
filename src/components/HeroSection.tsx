@@ -110,7 +110,7 @@ export default function HeroSection() {
                   />
                   <div className="absolute inset-0 bg-slate-950/40 flex items-center justify-center">
                     <Link
-                      href="/lessons/strategic-human-resource-management-shrm"
+                      href="/lessons/indian-labour-law-industrial-disputes-codes"
                       onClick={handleDemoVideoClick}
                       className="w-16 h-16 rounded-full bg-amber-600/90 text-white flex items-center justify-center pl-1 shadow-xl hover:scale-110 hover:bg-amber-500 transition-all duration-200 group-hover:ring-8 group-hover:ring-amber-500/20"
                       aria-label="Play sample management lesson"

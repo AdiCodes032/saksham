@@ -5,7 +5,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 93201,
+      "htmlSize": 95231,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -118,7 +118,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 58479,
+      "htmlSize": 56450,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -146,7 +146,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 71891,
+      "htmlSize": 76041,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -174,7 +174,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 73420,
+      "htmlSize": 77780,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -202,7 +202,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 73444,
+      "htmlSize": 77689,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -230,7 +230,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 73444,
+      "htmlSize": 77537,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -258,7 +258,7 @@
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 73462,
+      "htmlSize": 75938,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -282,11 +282,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/6": {
+    "/lessons/capital-structure-masterclass-corporate-optimization": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 71578,
+      "htmlSize": 76143,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -300,7 +300,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/6.rsc",
+      "dataRoute": "/lessons/capital-structure-masterclass-corporate-optimization.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -310,11 +310,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/compensation-and-total-rewards-architecture": {
+    "/lessons/end-to-end-supply-chain-management": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 73504,
+      "htmlSize": 77889,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -328,7 +328,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/compensation-and-total-rewards-architecture.rsc",
+      "dataRoute": "/lessons/end-to-end-supply-chain-management.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -338,11 +338,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/industrial-relations-labor-laws-compliance": {
+    "/lessons/finance-masterclass-working-capital-budgeting": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 71660,
+      "htmlSize": 77777,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -356,7 +356,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/industrial-relations-labor-laws-compliance.rsc",
+      "dataRoute": "/lessons/finance-masterclass-working-capital-budgeting.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -366,11 +366,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/people-analytics-and-hr-metrics": {
+    "/lessons/indian-labour-law-industrial-disputes-codes": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 73522,
+      "htmlSize": 77621,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -384,7 +384,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/people-analytics-and-hr-metrics.rsc",
+      "dataRoute": "/lessons/indian-labour-law-industrial-disputes-codes.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -394,11 +394,11 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/lessons/performance-management-okrs-balanced-scorecards": {
+    "/lessons/strategic-finance-cash-flow-tvm-eva": {
       "routeType": "page",
       "response": "complete",
       "compute": "static",
-      "htmlSize": 73536,
+      "htmlSize": 76006,
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -412,63 +412,7 @@
       ],
       "initialRevalidateSeconds": false,
       "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/performance-management-okrs-balanced-scorecards.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/lessons/strategic-human-resource-management-shrm": {
-      "routeType": "page",
-      "response": "complete",
-      "compute": "static",
-      "htmlSize": 71969,
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/strategic-human-resource-management-shrm.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/lessons/talent-acquisition-and-behavioral-interviewing": {
-      "routeType": "page",
-      "response": "complete",
-      "compute": "static",
-      "htmlSize": 73534,
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/lessons/[id]",
-      "dataRoute": "/lessons/talent-acquisition-and-behavioral-interviewing.rsc",
+      "dataRoute": "/lessons/strategic-finance-cash-flow-tvm-eva.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
